@@ -1,0 +1,14 @@
+slackclient
+pymssql
+wheel
+pyexcel
+pyexcel-io
+texttable
+aiohttp
+ebaysdk
+openpyxl
+fedex
+mysql-connector-python
+geopy
+xlrd
+XlsxWriter
